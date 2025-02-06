@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hello World , I'm Nguyen Viet Tin [a.k.a tr1ck3r]
+<img align="right" src="https://i.pinimg.com/originals/3f/c5/0a/3fc50a902865ac95560c64a36903ffec.gif" width="350">
 
-<!--
-**vieTins/vieTins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
+I am a cyber security student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+- :telescope: My goal is to become a DFIR 
+- :zap: In my free time, I solve CTF challenge 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vieTins-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vi%E1%BB%87t-t%C3%ADn-nguy%E1%BB%85n-0b4196329/)
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=vieTins&color=lightgrey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 My Social Media Accounts 
+
+<a href="https://www.facebook.com/ziet.tins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ziet.tins" height="30" width="40" /></a>
