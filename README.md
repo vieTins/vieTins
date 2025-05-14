@@ -2,7 +2,7 @@
 
 
 ### :woman_technologist: About Me :
-I am a cyber security student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+I am a cyber security student in VietNam. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: My goal is to become a SOC 
 - :zap: In my free time, I solve CTF challenge 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vieTins-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vi%E1%BB%87t-t%C3%ADn-nguy%E1%BB%85n-0b4196329/)
