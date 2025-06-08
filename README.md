@@ -1,5 +1,6 @@
 ## 👋 Hello World , I'm Nguyen Viet Tin [a.k.a tr1ck3r]
 
+<img align="right" src="https://i.pinimg.com/originals/a4/38/b3/a438b351b2d622c4940d5325b22d6225.gif" width="477">
 
 ### :woman_technologist: About Me :
 I am a cyber security student in VietNam. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
