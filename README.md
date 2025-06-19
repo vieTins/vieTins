@@ -10,6 +10,3 @@ I am a cyber security student in VietNam. <img src="https://media.giphy.com/medi
 
 ![](https://komarev.com/ghpvc/?username=vieTins&color=lightgrey)
 
-### 🌐 My Social Media Accounts 
-
-<a href="https://www.facebook.com/ziet.tins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ziet.tins" height="30" width="40" /></a>
