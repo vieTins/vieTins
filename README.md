@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643517239/32774/raichu.gif?1643517239" width="30" /> Ciao a Tutti! Nice to meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643517239/32774/raichu.gif?1643517239" width="30" /> Hi! Nice to meet you.</h1>
 
 
 Welcome to my page! I'm **Nguyen Viet Tin**, a passionate **SOC Analyst**, Incident Responder, and Blue Team Operator.  
